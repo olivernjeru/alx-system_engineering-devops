@@ -3,6 +3,6 @@
 x=0
 until [ $x -gt 9 ]
 do
-	echo "Alx School"
+	echo "Best School"
 	((x++))
 done
