@@ -1,5 +1,5 @@
 # SSH
-Learning Objective what is a SSH, how to create an SSH RSA key pair and how to connect to a remote host using SSH.
+Objective what is a SSH, how to create an SSH RSA key pair and how to connect to a remote host using SSH.
 
 ## Technologies
 * Scripts written in Bash 4.3.11(1)
