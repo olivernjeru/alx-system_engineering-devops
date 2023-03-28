@@ -1,6 +1,6 @@
 # Creates a file in /tmp
 
-file { '/tmp/alx':
+file { '/tmp/school':
   ensure  => file,
   path    => '/tmp/alx',
   mode    => '0744',
