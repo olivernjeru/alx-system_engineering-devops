@@ -2,7 +2,7 @@
 
 file { '/tmp/school':
   ensure  => file,
-  path    => '/tmp/alx',
+  path    => '/tmp/school',
   mode    => '0744',
   owner   => 'www-data',
   group   => 'www-data',
